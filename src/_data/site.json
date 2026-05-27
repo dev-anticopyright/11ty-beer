@@ -12,13 +12,13 @@
     "cover": true,
     "socialItems": [{
             "title": "GitHub",
-            "url": "https://github.com/w3teal/11ty-beer",
+            "url": "https://github.com/dev-anticopyright",
             "icon": "github"
         },
-        {
-            "title": "Mastodon",
-            "url": "https://fosstodon.org/@w3teal",
-            "icon": "mastodon",
+        {p
+            "title": "Instagram",
+            "url": "https://instagram.com/anticopyright",
+            "icon": "instagram",
             "rel": "me"
         }
     ],
@@ -80,7 +80,7 @@
         "dataCategoryID": "DIC_kwDONgFKcs4C0Yci"
     },
     "hero": {
-        "name": "11ty Beer, powered by Eleventy v3.1.2.",
+        "name": "Document, powered by 11ty code and shroom trip for inspiration",
         "title": "Blogging in 11ty has never been so easy.",
         "description": "Simply set your configuration and start writing posts in Markdown without hassle.",
         "image": {
@@ -100,7 +100,7 @@
             },
             {
                 "text": "GitHub",
-                "url": "https://github.com/w3teal/11ty-beer",
+                "url": "https://github.com/dev-anticopyright",
                 "extraClass": "transparent",
                 "icon": "si:github",
                 "sr": "View the source code at GitHub."
