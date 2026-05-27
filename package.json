@@ -1,7 +1,7 @@
 {
-  "name": "11ty-beer",
+  "name": "doc-anticopyright",
   "version": "1.2.0",
-  "description": "An 11ty blog template with Material Design, PWA and minified files that simply works.",
+  "description": "Blog template with Material Design, PWA and minified files that simply works.",
   "scripts": {
     "start": "npx @11ty/eleventy --serve",
     "build": "npx @11ty/eleventy"
@@ -11,8 +11,8 @@
     "url": "https://github.com/LIGMATV/11ty-beer.git"
   },
   "keywords": [
-    "eleventy",
-    "11ty",
+    "anticopyright",
+    "ac",
     "material-design",
     "pwa"
   ],
